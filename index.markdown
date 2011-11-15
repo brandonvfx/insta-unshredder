@@ -6,7 +6,6 @@ Shredded - Column Width: 32px
 Un-Shredded - Column Width Auto Detected
 ![Tokyo](./images/TokyoPanoramaShredded.unshredded.jpg "Title here")  
   
----
 
 Shredded - Column Width: 32px
 ![arch_shredded](./images/arch_shredded.jpg "Title")  
@@ -14,7 +13,6 @@ Shredded - Column Width: 32px
 Un-Shredded - Column Width Auto Detected
 ![arch_shredded](./images/arch_shredded.unshredded.jpg "Title")  
   
----
 
 Shredded - Column Width: 32px
 ![beach_shredded](./images/beach_shredded.jpg "Title")  
